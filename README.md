@@ -1,12 +1,13 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hello, World! I'm Nick Gkizis
 
 - 🌐 **My Website:** [Visit Here](https://nickgkizis.github.io/)
+- 
 
 ---
 
 ## 🧑‍💻 Most Used Languages
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickgkizis&langs_count=10&layout=compact&theme=radical" alt="Top Languages"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickgkizis&langs_count=20&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
 ---

@@ -1,12 +1,39 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> Hello, World! I'm Nick Gkizis
+## Hello, World! <br> I'm Nick Gkizis. <br> Welcome to my profile.
 
-- 🌐 **My Website:** [Visit Here](https://nickgkizis.github.io/)
-- 
+<div align="left">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://nickgkizis.github.io/">
+          <img src="https://img.icons8.com/?size=170&id=111134&format=png&color=000000" alt="Website Icon"/>
+        </a>
+        <br/>
+        <b>My Website</b>
+      </td>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/nikolaos-gkizis-chatziantoniou/">
+          <img src="https://img.icons8.com/?size=170&id=108812&format=png&color=000000" alt="LinkedIn Icon"/>
+        </a>
+        <br/>
+        <b>LinkedIn</b>
+      </td>
+      <td align="center">
+        <a href="mailto:nikolaosgkizis@gmail.com">
+          <img src="https://img.icons8.com/?size=170&id=108813&format=png&color=000000" alt="Email Icon"/>
+        </a>
+        <br/>
+        <b>Email</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
 
 ---
 
 ## 🧑‍💻 Most Used Languages
-<div align="center">
+<div align="left">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickgkizis&langs_count=20&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 

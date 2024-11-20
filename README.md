@@ -1,4 +1,6 @@
-## Hello, World! <br> I'm Nick Gkizis. <br> Welcome to my profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=0013FF&multiline=true&height=110&lines=Hello+World!++;I'm+Nick+Gkizis;Welcome+to+my+Profile.)](https://git.io/typing-svg)
+
+---
 
 <div align="left">
   <table>

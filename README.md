@@ -49,7 +49,6 @@
       <img src="https://raw.githubusercontent.com/nickgkizis/media/d5283de41b12ee10446c8ff0d9c64757ed0a6218/gif/Main%20Scene.gif" alt="Main Scene Animation" width="200" height="auto">
     </td>
     <td align="left">
-        ## 🧑‍💻 Most Used Languages
         <div align="left">
            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickgkizis&langs_count=20&layout=compact&theme=radical" alt="Top Languages"/>
         </div>

@@ -1,4 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=0013FF&multiline=true&height=110&lines=Hello+World!++;I'm+Nick+Gkizis;Welcome+to+my+Profile.)](https://git.io/typing-svg)
+<table>
+  
+  <tr>
+    <td align="left">
+        <img src="https://github.com/nickgkizis/media/blob/911135efe394a3815b913260b9382ccd51e13571/gif/Main%20Scene%202.gif" alt="Main Scene Animation" width="150" height="auto">
+      </td>
+    <td align="center">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=0013FF&multiline=true&height=110&lines=Hello+World!++;I'm+Nick+Gkizis;Welcome+to+my+Profile." alt="Typing SVG">
+      </a>
+    </td>
+    <td align="right">
+      <img src="https://raw.githubusercontent.com/nickgkizis/media/d5283de41b12ee10446c8ff0d9c64757ed0a6218/gif/Main%20Scene.gif" alt="Main Scene Animation" width="200" height="auto">
+    </td>
+  </tr>
+</table>
 
 ---
 

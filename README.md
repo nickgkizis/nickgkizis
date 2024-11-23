@@ -58,7 +58,7 @@
 
 ---
 
-## 🖥️ Experience in:
+## 🖥️ Familiar with:
 
 ### 🎨 Frontend Development 
 ![HTML5](https://skillicons.dev/icons?i=html)

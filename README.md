@@ -1,9 +1,10 @@
 <div align="center">
   <table>  
     <tr>
-      <td align="center">
-          <img src="https://github.com/nickgkizis/media/blob/911135efe394a3815b913260b9382ccd51e13571/gif/Main%20Scene%202.gif" alt="Main Scene Animation" width="150" height="auto">
-        </td>
+  <!--    <td align="center">  
+           <img src="https://github.com/nickgkizis/media/blob/911135efe394a3815b913260b9382ccd51e13571/gif/Main%20Scene%202.gif" alt="Main Scene Animation" width="150" height="auto">
+        </td> 
+  -->
       <td align="center">
         <a href="https://git.io/typing-svg">
           <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=0013FF&multiline=true&height=120&lines=Hello+World!++;I'm+Nick+Gkizis;Welcome+to+my+Profile." width="400" alt="Typing SVG">

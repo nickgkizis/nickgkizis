@@ -6,9 +6,8 @@
         </td> 
   -->
       <td align="center">
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=0013FF&multiline=true&height=120&lines=Hello+World!++;I'm+Nick+Gkizis;Welcome+to+my+Profile." width="400" alt="Typing SVG">
-        </a>
+        <!--  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=0013FF&multiline=true&height=120&lines=Hello+World!++;I'm+Nick+Gkizis;Welcome+to+my+Profile." width="400" alt="Typing SVG"> -->
+        <img src="https://readme-typing-svg.demolab.com?font=Exo&weight=100&size=25&pause=1000&color=0013FF&center=true&vCenter=true&width=435&lines=Hello+World!;I+am+Nick+Gkizis;Welcome+to+my+profile." width="500" alt="Typing SVG">
       </td>
     </tr>
   </table>

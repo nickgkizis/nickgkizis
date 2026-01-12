@@ -53,8 +53,8 @@
       </td>
       <td align="left">
           <div align="left">
-             <img src="https://readme-stats-fast.vercel/api/top-langs/?username=nickgkizis&langs_count=20&layout=compact&theme=radical" alt="Top Languages"/>
-             <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickgkizis&langs_count=20&layout=compact&theme=radical" alt="Top Languages"/>-->
+             <!--<img src="https://readme-stats-fast.vercel/api/top-langs/?username=nickgkizis&langs_count=20&layout=compact&theme=radical" alt="Top Languages"/>-->
+             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickgkizis&langs_count=20&layout=compact&theme=radical" alt="Top Languages"/>
           </div>
       </td>   
     </tr>
